@@ -1,1 +1,27 @@
+# Deleted Scenes: Design Evolution & Iterative Choices
 
+This folder contains the earlier iterations of the AtliQ Grands Hospitality Analysis project. These "deleted scenes" represent the conscious design and analytical decisions made to move from a complex view to a more refined, user-centric experience.
+
+---
+
+### 1. Navigation & Performance Dashboard (UI/UX Pivot)
+![Home Page Deleted Idea](Home_page_Deletd_Idea.png)
+![Performance Overview Deleted Idea](Performance_Overview_Deleted_Idea.jpg)
+
+**The Evolution:** Initially, I experimented with a dark, high-contrast theme. While visually striking, I realized that heavy dark backgrounds can be mentally taxing during long periods of data analysis. 
+
+**Why I Changed It:**
+* **Minimalism & Clarity:** I shifted to a lighter, minimalist palette to create a "calm mind" environment.
+* **Analysis over Aesthetics:** The goal was to ensure the dashboard felt professional and approachable, prioritizing readability.
+
+---
+
+### 2. Rating Analysis (Data Relevance Check)
+![Rating Analysis Deleted Visual](Rating_Analysis_Dleted_Visual.png)
+
+**The Evolution:** I developed a dedicated page to analyze guest ratings, but later decided to remove it from the final report.
+
+**Why I Removed It:**
+* **Redundancy:** Much of the rating information was already captured in other views.
+* **Actionability Gap:** The data provided the "what" (the score) but not the "why." Without specific feedback data, I couldn't offer concrete solutions to improve low ratings.
+* **Focus on Impact:** I chose to prioritize visuals that lead directly to revenue and operational decisions.
