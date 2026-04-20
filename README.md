@@ -98,6 +98,8 @@ Video Presentation link - https://youtu.be/Uo30SszpbG4
 
 Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiM2JhZTMyZGYtOTRmZi00MDE3LWI4OTAtOTE2MmJhZjNhZjBhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e720a671309302360825
 
+Resume Project Challenge Link : https://codebasics.io/challenges/codebasics-resume-project-challenge/4
+
 
 ----
 
