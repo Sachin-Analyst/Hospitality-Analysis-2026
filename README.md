@@ -19,7 +19,7 @@ Welcome to my Hospitality Analysis project. This repository features a comprehen
 *Project Title:* Business Insights 360  
 *Created By:* [Sachin-Analyst](https://github.com/Sachin-Analyst)  
 *Tools Used:*  Excel , Power BI
-Focus Areas: Revenue Growth Optimization, Occupancy Trend Analysis, and Booking Channel Performance
+*Focus Areas:* Revenue Growth Optimization, Occupancy Trend Analysis, and Booking Channel Performance
 
 ---
 
